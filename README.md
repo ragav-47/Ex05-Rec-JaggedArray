@@ -1,4 +1,6 @@
-# Ex05-Rec-JaggedArray
+### EX NO : 05
+### DATE  : 11.05.2022
+# <p align="center">JaggedArray</p>
 ## Aim:
 To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array.
 ## Algorithm:
@@ -16,6 +18,7 @@ Print the sample CPU usage in the jagged array.
 ### Step5:
 stop
 
+<br/><br/><br/><br/><br/><br/>
 
 ## Program:
 ```c#
